@@ -1,4 +1,4 @@
-This project was created to test the newly implemented website for the company APS Energia SA. Tests included verification of all functionalities of the website and its usability for several user and stakeholders groups.
+This project was created to test the newly implemented website for the company APS Energia SA (www.apsenergia.pl). Tests included verification of all functionalities of the website and its usability for several user and stakeholders groups.
 
 APS Energia operates, among others, in the field of guaranteed power supply systems for industry, generation and transmission of electricity, oil and natural gas.
 
